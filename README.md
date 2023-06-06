@@ -21,5 +21,14 @@ This is a data story to find out if there is hit guarantee actor.
 울산으 기온을 prophet 라이브러리로 예측한 데이터 스토리입니다.<br>
 This is a data story that predicts the temperature of Ulsan with a propet library.
 
-## netflix_tilte_eda_and_use_tfidf_recommend_sys<br>
-넷플릭스 제목에 대해 EDA해보고 tf-idf를 사용해서 콘텐츠를 추천한 데이터 스토리입니다.
+## netflix_tilte_eda_and_use_tfidf_recommend_sys
+넷플릭스 제목에 대해 EDA 해보고 tf-idf를 사용해서 콘텐츠를 추천한 데이터 스토리입니다.<br>
+This is a data story that I did EDA about the Netflix title and recommended content using tf-idf.
+
+## k_drama_vincenzo_self_labeling_and_analysis
+드라마 빈센조의 넷플릭스 자막 중 음악에 라벨링을 하여 드라마의 분위기를 분석한 데이터 스토리입니다.<br>
+This is a data story that analyzes the mood of the drama by labeling the music among the Netflix subtitles of the drama Vincenzo.
+
+## k_drama_vincenzo_and_My_Mister_self_labeling_and_analysis
+드라마 빈센조와 나의 아저씨의 넷플릭스 자막 중 음악에 라벨링을 하여 드라마의 분위기를 분석한 데이터 스토리입니다.<br>
+It is a data story that analyzes the atmosphere of the drama by labeling the music in the Netflix subtitles of the drama Vincenzo and my Mister.
