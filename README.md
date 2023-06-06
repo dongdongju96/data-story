@@ -5,6 +5,10 @@ data-story-telling contents
 드라마 프로젝트를 하면서 수집한 데이터로 "출연 배우의 연령대"와 "시청률"의 관계를 알아보는 데이터 스토리입니다.<br>
 It is a data story that examines the relationship between "Age Group of Actors" and "Viewer Ratings" with the data collected during the drama project.
 
+## correlation_with_actors_age_and_rating2
+드라마 프로젝트를 하면서 수집한 데이터로 "출연 배우의 연령대"와 "시청률"의 관계를 알아보는 데이터 스토리의 확장입니다.<br>
+It is an extension of the data story that examines the relationship between "Age of Actors" and "Viewer Ratings" with the data collected during the drama project.
+
 ## what_month_is_good_to_surf
 바다의 수온을 기준으로 어느 달이 서핑하기 좋은지 알아보는 데이터 스토리입니다.<br>
 This is a data story to find out which month is good for surfing based on the water temperature of the sea.
