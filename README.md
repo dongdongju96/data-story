@@ -1,5 +1,5 @@
 # data-story
-data-story-telling contents
+data-story-telling contents <br>
 If you want to see the interactive graph use (nbviewer)[https://nbviewer.jupyter.org].
 
 ## correlation_with_actors_age_and_rating
