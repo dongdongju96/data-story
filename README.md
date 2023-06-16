@@ -35,7 +35,7 @@ This is a data story to find out which month is good for surfing based on the wa
 This is a data story to find out if there is hit guarantee actor.
 
 ## predict_ulsan_temperature_with_prophet
-울산으 기온을 prophet 라이브러리로 예측한 데이터 스토리입니다.<br>
+울산의 기온을 prophet 라이브러리로 예측한 데이터 스토리입니다.<br>
 This is a data story that predicts the temperature of Ulsan with a propet library.
 
 ## netflix_tilte_eda_and_use_tfidf_recommend_sys
