@@ -65,3 +65,7 @@ This is a datastory that I follow guide from book which name is "The Wall Street
 ## kobis_data_error_fix
 kobis의 데이터를 읽을 때 발생하는 에러 해결 방법에 대한 ipynb<br>
 It's about how to read kobis dataset
+
+## metaverse_game_review
+구글플레이스토어 api를 사용해서 제페토와 로블록스에 대한 리뷰를 분석한 데이터 스토리입니다.<br>
+This datastory analyzed reviews of Zepeto and roblox using google play store api.
