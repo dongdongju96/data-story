@@ -2,6 +2,22 @@
 data-story-telling contents <br>
 If you want to see the interactive graph use [nbviewer](https://nbviewer.jupyter.org).
 
+## league_of_legends
+RIOT API를 사용해서 저의 게임 데이터를 분석한 데이터스토리 모음입니다.<br>
+This is my league_of_legends game data anlaysis folder.
+
+- how_much_i_die.ipynb
+      - 게임을 하면서 평균적으로 얼마나 죽는지 분석한 ipynb
+- where_is_my_lane.ipynb
+      - 라인별 죽은 횟수 분석을 바탕으로 포지션을 정하는 ipynb
+- riot_api_data_save.ipynb
+      - riot api 사용 후 데이터 저장하는 방법을 알려주는 ipynb
+- riot_api_useage_1.ipynb
+      - riot api를 사용해서 받을 수 있는 데이터 값 간단히 조회하는 ipynb
+- riot_api_useage_2.ipynb
+      - riot api를 사용해서 죽은 위치를 미니맵에 나타내 보는 ipynb
+
+
 ## correlation_with_actors_age_and_rating
 드라마 프로젝트를 하면서 수집한 데이터로 "출연 배우의 연령대"와 "시청률"의 관계를 알아보는 데이터 스토리입니다.<br>
 It is a data story that examines the relationship between "Age Group of Actors" and "Viewer Ratings" with the data collected during the drama project.
