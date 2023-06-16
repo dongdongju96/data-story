@@ -50,6 +50,10 @@ This is a data story that analyzes the mood of the drama by labeling the music a
 드라마 빈센조와 나의 아저씨의 넷플릭스 자막 중 음악에 라벨링을 하여 드라마의 분위기를 분석한 데이터 스토리입니다.<br>
 It is a data story that analyzes the atmosphere of the drama by labeling the music in the Netflix subtitles of the drama Vincenzo and my Mister.
 
+## naver_economic_news_visualization
+네이버 경제 뉴스 기사 일부를 시각화한 데이터스토리입니다.<br>
+Visualization about some of naver economy news
+
 ## networkx_plotly
 네트워크 시각화 라이브러리인 networkx를 plotly를 사용해서 2d와 3d로 나타내는것을 연습했습니다.<br>
 This is doodle file that i practice network visualization with networkx and plotly
