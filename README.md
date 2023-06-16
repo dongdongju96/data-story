@@ -61,3 +61,7 @@ This is doodle file that i practice network visualization with networkx and plot
 ## Information Graphics
 '윌스트리트저널 인포그래픽 가이드' 책을 읽고 작성한 데이터스토리입니다.
 This is a datastory that I follow guide from book which name is "The Wall Street Journal. Guide to Information Graphics"
+
+## kobis_data_error_fix
+kobis의 데이터를 읽을 때 발생하는 에러 해결 방법에 대한 ipynb<br>
+It's about how to read kobis dataset
